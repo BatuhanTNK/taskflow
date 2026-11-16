@@ -8,7 +8,7 @@
     "dev": "node --watch src/app.js"
   },
   "keywords": [],
-  "author": "Senin adın",
+  "author": "Batuhan Tonk",
   "license": "ISC",
   "dependencies": {
     "express": "^5.3.0"
