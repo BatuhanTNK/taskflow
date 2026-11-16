@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Backend projesini kur",
+    "description": "Node.js ve Express kurulumunu yap",
+    "status": "completed",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-11-14T10:00:00.000Z",
+    "updatedAt": "2026-11-14T10:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "CRUD endpoint'lerini yaz",
+    "description": "Görev ekleme, listeleme, detay, güncelleme ve silme",
+    "status": "in-progress",
+    "priority": "high",
+    "assignee": "musa",
+    "createdAt": "2026-11-14T10:30:00.000Z",
+    "updatedAt": "2026-11-14T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "README dosyasını hazırla",
+    "description": "Kurulum ve çalıştırma adımlarını yaz",
+    "status": "pending",
+    "priority": "low",
+    "assignee": "ayse",
+    "createdAt": "2026-11-14T11:00:00.000Z",
+    "updatedAt": "2026-11-14T11:00:00.000Z"
+  }
+]
